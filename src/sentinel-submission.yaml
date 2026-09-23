@@ -1,0 +1,12 @@
+name: python-defense-starter
+kind: defense
+api_version: v1
+team: Genzyet
+port: 8080
+models: [Qwen 3 8b w/4-bit quantization on Kaggle]
+datasets: []
+resources:
+  memory: 1g
+  cpus: 1.0
+  gpus: 0
+description: multi-layered defense solution by team Genzyet.
