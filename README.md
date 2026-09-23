@@ -1,6 +1,7 @@
 # SENTINEL Defense
 **Adaptive Safety for Autonomous AI Agents**
 IndabaX Tunisia 2026 - Technical Challenge
+[Link to Kaggle notebook](https://www.kaggle.com/code/aminefezzani/hackathon-sentinel)
 
 ---
 
