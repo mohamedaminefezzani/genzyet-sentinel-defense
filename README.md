@@ -244,7 +244,7 @@ tests/
 |---|---|---|---|---|---|---|
 | Full defense | 0.000 | 0.000 | 1.000 | 0.062 | 0.043 | 0.708 |
 | No coherence (threshold=1.1) | 0.000 | 0.000 | 1.000 | 0.062 | 0.043 | 0.708 |
-| Permissive block (threshold=0.85) | 0.000 | 0.000 | 1.000 | 0.043 | 0.043 | 0.708 |
-| Strict escalation (threshold=0.25) | 0.000 | 0.000 | 1.000 | 0.043 | 0.043 | 0.708 |
+| Permissive block (threshold=0.85) | 0.000 | 0.000 | 1.000 | 0.062 | 0.043 | 0.708 |
+| Strict escalation (threshold=0.25) | 0.000 | 0.000 | 1.000 | 0.062 | 0.043 | 0.708 |
 
 Security metrics are invariant across all variants. The policy gate and taint layers do all the security work on these scenarios.
